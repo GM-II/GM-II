@@ -1,4 +1,4 @@
-# MII Microscopia, Instrumentación e Innovación. 
+# M-II Microscopia, Instrumentación e Innovación. 
 ![](FotoGrupoRevelada1.jpg)
 <!--
 **Microscopia-Instrumentacion-Innovacion/Microscopia-Instrumentacion-Innovacion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
