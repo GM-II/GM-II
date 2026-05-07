@@ -35,7 +35,7 @@ Caracterización multiescala de nuevos materiales y recubrimientos con aplicacio
    #### Estudiantes de Posgrado:
   - José A. Gómez (Doctorado en Ciencias - Física)
   - William Salazar (Doctorado en Ciencias - Física)
-  - Daniel H. Campos (Maestría en Ingenieria Electrónica);
+  - Daniel H. Campos (Maestría en Ingenieria Electrónica)
   #### Estudiantes de Pregrado:
   - Cristian C. Martinez (Quimica)
   - Juan S. Bonilla (Física & Matemáticas)
@@ -43,9 +43,11 @@ Caracterización multiescala de nuevos materiales y recubrimientos con aplicacio
   - Serena Triviño (Física)
   - Juan M. Ballesteros (Física)
   #### Egresados:
-  - Claudia P. Mejía (Doctoroda en Ingeniria - Ciencia y Tecnología de Materiales)
+  - Claudia P. Mejía (Doctorado en Ingeniria - Ciencia y Tecnología de Materiales)
+  
+    Tesis de doctorado: [Recubrimientos nanoestructurados de Ti-Zr-Si-N producidos por la técnica de co-sputtering reactivo](https://repositorio.unal.edu.co/items/7c3d00ab-ef82-4b80-8ab3-e836bc344375)
   - Lizeth T. González (Física).
   - Santiago Rosas (Física).
   - Andres Leal (Física).
-  #### **Semillero:**
+  ### **Semillero:**
   - Estudiantes dedicados al diseño de hardware y experimentación científica.
