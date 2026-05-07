@@ -17,27 +17,35 @@ Impulsar la experimentación científica avanzada mediante el desarrollo de tecn
 - **Ciencia y Tecnología de Materiales:** Análisis y caracterización estructural, tribomecánica y electroquímica de diversos materiales, desde multiferroicos y peliculas delgadas, hasta tejidos biologicos y polimeros, apoyados en simulaciones tipo Monte Carlo o Calphad.
 
 ## 4. Proyectos en Desarrollo
-- **Instrumentación en Ciencia Abierta:** Creación de dispositivos de medición y observación de bajo costo para democratizar el acceso a la experimentación avanzada.
-- **Visión por Computador aplicada a la Mecánica:** Implementación de sistemas DIC para el monitoreo de deformaciones en tiempo real.
-- **Análisis Avanzado de Materiales:** Caracterización multiescala de nuevos materiales y recubrimientos con aplicaciones industriales y biológicas.
+- #### **Instrumentación en Ciencia Abierta:** 
+Creación de dispositivos de medición y observación de bajo costo para democratizar el acceso a la experimentación avanzada.
+- #### **Visión por Computador aplicada a la Mecánica:** 
+Implementación de sistemas DIC para el monitoreo de deformaciones en tiempo real.
+- #### **Análisis Avanzado de Materiales:**
+Caracterización multiescala de nuevos materiales y recubrimientos con aplicaciones industriales y biológicas.
 
 ## 5. Integrantes
-- **Líder:** John W. Sandino del Busto.
-- **Profesores:** Carlos M. Garzón, John W. Sandino, Luis C. Moreno.
-- **Investigadores:**
-- **Estudiantes de Posgrado:**
-- José A. Gómez (Doctorado en Ciencias - Física)
-- William Salazar (Doctorado en Ciencias - Física)
-- Daniel H. Campos (Maestría en Ingenieria Electrónica);
-- **Estudiantes de Pregrado:**
-- Cristian C. Martinez (Quimica)
-- Juan S. Bonilla (Física & Matemáticas)
-- Andrea P. Morato (Física & Ciencias de la Computación)
-- Serena Triviño (Física)
-- Juan M. Ballesteros (Física)
-- **Semillero:** Estudiantes dedicados al diseño de hardware y experimentación científica.
-- **Egresados:**
-- Claudia P. Mejía (Doctoroda en Ingeniria - Ciencia y Tecnología de Materiales)
-- Lizeth T. González (Física).
-- Santiago Rosas (Física).
-- Andres Leal (Física).
+ ### **Líder:**
+-  John W. Sandino del Busto.
+ ### **Profesores:**
+-  Carlos M. Garzón.
+-  John W. Sandino.
+-  Luis C. Moreno.
+ ### **Investigadores:**
+   #### Estudiantes de Posgrado:
+  - José A. Gómez (Doctorado en Ciencias - Física)
+  - William Salazar (Doctorado en Ciencias - Física)
+  - Daniel H. Campos (Maestría en Ingenieria Electrónica);
+  #### Estudiantes de Pregrado:
+  - Cristian C. Martinez (Quimica)
+  - Juan S. Bonilla (Física & Matemáticas)
+  - Andrea P. Morato (Física & Ciencias de la Computación)
+  - Serena Triviño (Física)
+  - Juan M. Ballesteros (Física)
+  #### Egresados:
+  - Claudia P. Mejía (Doctoroda en Ingeniria - Ciencia y Tecnología de Materiales)
+  - Lizeth T. González (Física).
+  - Santiago Rosas (Física).
+  - Andres Leal (Física).
+  #### **Semillero:**
+  - Estudiantes dedicados al diseño de hardware y experimentación científica.
