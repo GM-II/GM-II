@@ -5,55 +5,68 @@
 Impulsar la experimentación científica avanzada mediante el desarrollo de tecnologías accesibles y el fortalecimiento de capacidades en microscopía e instrumentación, buscando un impacto real en los sectores académico, tecnológico y social.
 
 ## 2. Objetivos Específicos
-- **Desarrollar** instrumentación científica propia y de bajo costo utilizando principios de hardware y software abierto, con enfoque en la microscopia, estudio de materiales y fenomenos físicos.
-- **Aplicar** técnicas de visión por computadora, flujo optico y Correlación Digital de Imágenes (DIC) para el estudio detallado de deformaciones, fallas y propiedades mecánicas y estructurales de los materiales.
-- **Caracterizar** la microestructura y propiedades de materiales avanzados, como recubrimientos, polímeros, o multiferróicos mediante técnicas de SEM, TEM, microscopia confocal, microscopia optica, o simulación computacional.
-- **Modernizar y repotenciar** microscopios electrónicos y equipos de caracterización de materiales existentes a través de la actualización de su electrónica y sistemas de control.
+ - **Desarrollar** instrumentación científica propia y de bajo costo utilizando principios de hardware y software abierto, con enfoque en la microscopia, estudio de materiales y fenomenos físicos.
+ - **Aplicar** técnicas de visión por computadora, flujo optico y Correlación Digital de Imágenes (DIC) para el estudio detallado de deformaciones, fallas y propiedades mecánicas y estructurales de los materiales.
+ - **Caracterizar** la microestructura y propiedades de materiales avanzados, como recubrimientos, polímeros, o multiferróicos mediante técnicas de SEM, TEM, microscopia confocal, microscopia optica, o simulación computacional.
+ - **Modernizar y repotenciar** microscopios electrónicos y equipos de caracterización de materiales existentes a través de la actualización de su electrónica y sistemas de control.
 
 ## 3. Líneas de Investigación
-- **Microscopía Electrónica y Fotónica:** Estudios de tecnicas de SEM, TEM, microscopía láser confocal, óptica avanzada, holografía electrónica, EBSD/TKD y microanálisis EDS.
-- **Imagen y Visión por Computador:** Correlación Digital de Imágenes (DIC), Seguimento por flujo optico (Optical Flow), profundidad de campo extendida y entornos de realidad virtual/360°.
-- **Hardware e Instrumentación (Open Hardware):** Desarrollo de equipos especializados con hardware y software abiertos, ensamble de montajes experimentales avanzados hechos a medida, y modernización de equipos antiguos para instrumentación científica.
-- **Ciencia y Tecnología de Materiales:** Análisis y caracterización estructural, tribomecánica y electroquímica de diversos materiales, desde multiferroicos y peliculas delgadas, hasta tejidos biologicos y polimeros, apoyados en simulaciones tipo Monte Carlo o Calphad.
+ - **Microscopía Electrónica y Fotónica:** Estudios de tecnicas de SEM, TEM, microscopía láser confocal, óptica avanzada, holografía electrónica, EBSD/TKD y microanálisis EDS.
+ - **Imagen y Visión por Computador:** Correlación Digital de Imágenes (DIC), Seguimento por flujo optico (Optical Flow), profundidad de campo extendida y entornos de realidad virtual/360°.
+ - **Hardware e Instrumentación (Open Hardware):** Desarrollo de equipos especializados con hardware y software abiertos, ensamble de montajes experimentales avanzados hechos a medida, y modernización de equipos antiguos para instrumentación científica.
+ - **Ciencia y Tecnología de Materiales:** Análisis y caracterización estructural, tribomecánica y electroquímica de diversos materiales, desde multiferroicos y peliculas delgadas, hasta tejidos biologicos y polimeros, apoyados en simulaciones tipo Monte Carlo o Calphad.
 
 ## 4. Proyectos en Desarrollo
-- #### **Instrumentación en Ciencia Abierta:** 
-Creación de dispositivos de medición y observación de bajo costo para democratizar el acceso a la experimentación avanzada.
-- #### **Visión por Computador aplicada a la Mecánica:** 
-Implementación de sistemas DIC para el monitoreo de deformaciones en tiempo real.
-- #### **Análisis Avanzado de Materiales:**
-Caracterización multiescala de nuevos materiales y recubrimientos con aplicaciones industriales y biológicas.
+ - #### **Instrumentación en Ciencia Abierta:** 
+  Creación de dispositivos de medición y observación de bajo costo para democratizar el acceso a la experimentación avanzada.
+ - #### **Visión por Computador aplicada a la Mecánica:** 
+  Implementación de sistemas DIC para el monitoreo de deformaciones en tiempo real.
+ - #### **Análisis Avanzado de Materiales:**
+  Caracterización multiescala de nuevos materiales y recubrimientos con aplicaciones industriales y biológicas.
 
 ## 5. Integrantes
  ### **Líder:**
--  John W. Sandino del Busto.
+  -  John W. Sandino del Busto.
  ### **Co-Director:**
-- Carlos M. Garzón Ospina.
+  - Carlos M. Garzón Ospina.
  ### **Profesores:**
--  Carlos M. Garzón.
--  John W. Sandino.
--  Luis C. Moreno.
+  -  Carlos M. Garzón.[🔬👨🏽‍🏫](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000858480)
+  -  John W. Sandino.[🔬👨🏽‍🏫](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000559245)
+  -  Luis C. Moreno.[🔬👨🏽‍🏫](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000477168)
  ### **Investigadores:**
-   #### Estudiantes Líderes:
-  - Juan M. Ballesteros (Física)
+  <details>
+   <summary><h4>Estudiantes Líderes</h4></summary>
 
-    Proyecto: [Developing low-cost open-source computational microscopy systems](https://github.com/GM-II/ProyectoJuanManuel)
-    Producción: Extended depth-of-field reflected-light microscopy with a low-cost robotic microscope and Fiji focus stacking: workflow integration and baseline evaluation.
-  - Juan S. Bonilla (Física)
-    
-    Proyecto: [Diseño y montaje de sistema personalizado para la caracterización de soportes poliméricos para ingeniería de tejidos](https://github.com/GM-II/ProyectoJuanSebastian)
-    
-    Trabajo de Grado: Diseño y Montaje de un Microscopio Confocal de Bajo Costo para la Caracterizacion de Soportes Polimericos en Ingenieria de Tejidos
- - José A. Gómez (Doctorado en Ciencias - Física)
+<dl>
+ 
+   - <strong>Juan M. Ballesteros (Física)</strong>
+   &nbsp;&nbsp;&nbsp;<dd>Proyecto: <a href="https://github.com/GM-II/ProyectoJuanManuel">Developing low-cost open-source computational microscopy systems</a><br>
+   Producción: Extended depth-of-field reflected-light microscopy with a low-cost robotic microscope and Fiji focus stacking: workflow integration and baseline evaluation.(Artiulo en revisión)</dd>
+   <br>
 
-   Tesis de Maestría: [Obtención de la rugosidad a partir de imágenes obtenidas en un Microscopio Electrónico de Barrido](https://repositorio.unal.edu.co/items/41beeba7-966f-47aa-8196-f639d29bcbfa)
+   - <strong>Juan S. Bonilla (Física)</strong>
+   &nbsp;&nbsp;&nbsp;<dd>Proyecto: <a href="https://github.com/GM-II/ProyectoJuanSebastian">Diseño y montaje de sistema personalizado para la caracterización de soportes poliméricos para ingeniería de tejidos</a><br>
+   Trabajo de Grado: Diseño y Montaje de un Microscopio Confocal de Bajo Costo para la Caracterizacion de Soportes Polimericos en Ingenieria de Tejidos</dd>
+   <br>
 
- - Serena Triviño (Física)
+   - <strong>José A. Gómez (Doctorado en Ciencias - Física)</strong>
+   &nbsp;&nbsp;&nbsp;<dd>Tesis de Maestría: <a href="https://repositorio.unal.edu.co/items/41beeba7-966f-47aa-8196-f639d29bcbfa">Obtención de la rugosidad a partir de imágenes obtenidas en un Microscopio Electrónico de Barrido</a></dd>
+   <br>
+
+   - <strong>Serena Triviño (Física)</strong>
+   &nbsp;&nbsp;&nbsp;<dd>Proyecto: <a href="https://github.com/GM-II/Ditogachi">Ditogachi</a></dd>
+   <br>
+
+   - <strong>William Salazar (Doctorado en Ciencias - Física)</strong>
+   &nbsp;&nbsp;&nbsp;<dd>Tesis de Maestría: Estudio de materiales multiferróicos por medio de microscopía electrónica de transmisión.<br>
+   Producción: <a href="https://doi.org/10.1007/s10909-019-02238-y?urlappend=%3Futm_source%3Dresearchgate.net%26utm_medium%3Darticle">Magnetic feature of the Z-type hexaferrite produced by the citrate and Pechini synthesis routes</a>; <a href="https://doi.org/10.1016/j.jmmm.2020.1664230">Magnetic domain structures of Sr3Co2Z hexaferrite by TEM</a>; </dd>
+</dl>
+
+  </details>
+  <details>
+   <summary><h4>Estudiantes de Posgrado</h4></summary>
+  </details>
    
-   Proyecto: [Ditogachi](https://github.com/GM-II/Ditogachi)
- - William Salazar (Doctorado en Ciencias - Física)
-
-   Tesis de Maestría: Estudio de materiales multiferróicos por medio de microscopía electrónica de transmisión.
    #### Estudiantes de Posgrado:
   - José A. Gómez (Doctorado en Ciencias - Física)
   - William Salazar (Doctorado en Ciencias - Física)
@@ -87,7 +100,7 @@ de diseno abierto
   ### **Semillero:**
   - Estudiantes dedicados al diseño de hardware y experimentación científica.
 <details>
-  <summary>Haz clic aquí para ver la lista</summary>
+  <summary>[Miembros del seminario]</summary>
 
   * Elemento 1
   * Elemento 2
