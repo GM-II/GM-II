@@ -86,3 +86,11 @@ de diseno abierto
     Trabajo de Grado: Simulaciones de Monte Carlo de los espectros por dispersión de energía obtenidos en el microscopio electrónico con miras a la determinación de espesores de recubrimientos: caso de estudio de los recubrimientos de TiN sobre diversos substratos.
   ### **Semillero:**
   - Estudiantes dedicados al diseño de hardware y experimentación científica.
+<details>
+  <summary>Haz clic aquí para ver la lista</summary>
+
+  * Elemento 1
+  * Elemento 2
+  * Elemento 3
+
+</details>
