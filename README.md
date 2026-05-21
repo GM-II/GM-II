@@ -44,13 +44,14 @@ Impulsar la experimentación científica avanzada mediante el desarrollo de tecn
    Producción: Extended depth-of-field reflected-light microscopy with a low-cost robotic microscope and Fiji focus stacking: workflow integration and baseline evaluation.(Artiulo en revisión)</dd>
    <br>
 
-   - <strong>Juan S. Bonilla (Física)</strong>
+   - <strong>Juan S. Bonilla (Física & Matemáticas)</strong>
    &nbsp;&nbsp;&nbsp;<dd>Proyecto: <a href="https://github.com/GM-II/ProyectoJuanSebastian">Diseño y montaje de sistema personalizado para la caracterización de soportes poliméricos para ingeniería de tejidos</a><br>
    Trabajo de Grado: Diseño y Montaje de un Microscopio Confocal de Bajo Costo para la Caracterizacion de Soportes Polimericos en Ingenieria de Tejidos</dd>
    <br>
 
    - <strong>José A. Gómez (Doctorado en Ciencias - Física)</strong>
-   &nbsp;&nbsp;&nbsp;<dd>Tesis de Maestría: <a href="https://repositorio.unal.edu.co/items/41beeba7-966f-47aa-8196-f639d29bcbfa">Obtención de la rugosidad a partir de imágenes obtenidas en un Microscopio Electrónico de Barrido</a></dd>
+   &nbsp;&nbsp;&nbsp;<dd>Proyecto: <a href="https://github.com/GM-II/ProyectoJago">Resolución del problema inverso de microscopia electrónica mediante IA</a><br>
+   Tesis de Maestría: <a href="https://repositorio.unal.edu.co/items/41beeba7-966f-47aa-8196-f639d29bcbfa">Obtención de la rugosidad a partir de imágenes obtenidas en un Microscopio Electrónico de Barrido</a></dd>
    <br>
 
    - <strong>Serena Triviño (Física)</strong>
@@ -61,24 +62,54 @@ Impulsar la experimentación científica avanzada mediante el desarrollo de tecn
    &nbsp;&nbsp;&nbsp;<dd>Tesis de Maestría: Estudio de materiales multiferróicos por medio de microscopía electrónica de transmisión.<br>
    Producción: <a href="https://doi.org/10.1007/s10909-019-02238-y?urlappend=%3Futm_source%3Dresearchgate.net%26utm_medium%3Darticle">Magnetic feature of the Z-type hexaferrite produced by the citrate and Pechini synthesis routes</a>; <a href="https://doi.org/10.1016/j.jmmm.2020.1664230">Magnetic domain structures of Sr3Co2Z hexaferrite by TEM</a>; </dd>
 </dl>
-
   </details>
   <details>
    <summary><h4>Estudiantes de Posgrado</h4></summary>
-  </details>
+   <dl>
+    
+    - <strong>Daniel H. Campos (Maestría en Ingenieria Electrónica)</strong>
+   &nbsp;&nbsp;&nbsp;<dd>Proyecto: <a href="https://github.com/GM-II/Ditogachi">Ditogachi</a><br>
+   Tesis de Maestría: Desarrollo de un hardware de código abierto para ensayos de tensión biaxial asistido por un sistema de control híbrido basado en la visión de máquina y la electrónica embebida.</dd>
+   <br>
    
-   #### Estudiantes de Posgrado:
-  - José A. Gómez (Doctorado en Ciencias - Física)
-  - William Salazar (Doctorado en Ciencias - Física)
-  - Daniel H. Campos (Maestría en Ingenieria Electrónica)
-    Tesis de Maestría: Desarrollo de un hardware de código abierto para ensayos de tensión biaxial asistido por un sistema de control híbrido basado en la visión de máquina y la electrónica embebida.
-  #### Estudiantes de Pregrado:
-  - Cristian C. Martinez (Quimica)
-  - Juan S. Bonilla (Física & Matemáticas)
-  - Andrea P. Morato (Física & Ciencias de la Computación)
-  - Juan D. Hernandez (Física)
-  - Serena Triviño (Física)
-  - Juan M. Ballesteros (Física)
+    - <strong>José A. Gómez (Doctorado en Ciencias - Física)</strong>
+    &nbsp;&nbsp;&nbsp;<dd>Proyecto: <a href="https://github.com/GM-II/ProyectoJago">Resolución del problema inverso de microscopia electrónica mediante IA</a><br>
+   Tesis de Maestría: <a href="https://repositorio.unal.edu.co/items/41beeba7-966f-47aa-8196-f639d29bcbfa">Obtención de la rugosidad a partir de imágenes obtenidas en un Microscopio Electrónico de Barrido</a></dd>
+   <br>
+   
+    - <strong>William Salazar (Doctorado en Ciencias - Física)</strong>
+   &nbsp;&nbsp;&nbsp;<dd>Tesis de Maestría: Estudio de materiales multiferróicos por medio de microscopía electrónica de transmisión.<br>
+   Producción: <a href="https://doi.org/10.1007/s10909-019-02238-y?urlappend=%3Futm_source%3Dresearchgate.net%26utm_medium%3Darticle">Magnetic feature of the Z-type hexaferrite produced by the citrate and Pechini synthesis routes</a>; <a href="https://doi.org/10.1016/j.jmmm.2020.1664230">Magnetic domain structures of Sr3Co2Z hexaferrite by TEM</a>; </dd>
+   </dl>
+  </details>
+  <details>
+   <summary><h4>Estudiantes de Pregrado</h4></summary>
+   <dl>
+    
+   - <strong>Andrea P. Morato (Física & Ciencias de la Computación)</strong>
+    <br>
+   
+   - <strong>Cristian C. Martinez (Quimica)</strong>
+    <br>
+
+   - <strong>Juan M. Ballesteros (Física)</strong>
+   &nbsp;&nbsp;&nbsp;<dd>Proyecto: <a href="https://github.com/GM-II/ProyectoJuanManuel">Developing low-cost open-source computational microscopy systems</a><br>
+   Producción: Extended depth-of-field reflected-light microscopy with a low-cost robotic microscope and Fiji focus stacking: workflow integration and baseline evaluation.(Artiulo en revisión)</dd>
+   <br>
+
+   - <strong>Juan D. Hernandez (Física)</strong>
+    <br>
+    
+   - <strong>Juan S. Bonilla (Física & Matemáticas)</strong>
+   &nbsp;&nbsp;&nbsp;<dd>Proyecto: <a href="https://github.com/GM-II/ProyectoJuanSebastian">Diseño y montaje de sistema personalizado para la caracterización de soportes poliméricos para ingeniería de tejidos</a><br>
+   Trabajo de Grado: Diseño y Montaje de un Microscopio Confocal de Bajo Costo para la Caracterizacion de Soportes Polimericos en Ingenieria de Tejidos</dd>
+   <br>
+   
+   - <strong>Serena Triviño (Física)</strong>
+   &nbsp;&nbsp;&nbsp;<dd>Proyecto: <a href="https://github.com/GM-II/Ditogachi">Ditogachi</a></dd> 
+   </dl>
+  </details>
+  
   #### Egresados:
   - Claudia P. Mejía (Doctorado en Ingeniria - Ciencia y Tecnología de Materiales)
   
