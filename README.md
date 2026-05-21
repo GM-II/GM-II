@@ -27,7 +27,7 @@ Caracterización multiescala de nuevos materiales y recubrimientos con aplicacio
 ## 5. Integrantes
  ### **Líder:**
 -  John W. Sandino del Busto.
- ### **Co-Directore:**
+ ### **Co-Director:**
 - Carlos M. Garzón Ospina.
  ### **Profesores:**
 -  Carlos M. Garzón.
