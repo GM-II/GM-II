@@ -30,9 +30,9 @@ Impulsar la experimentación científica avanzada mediante el desarrollo de tecn
  ### **Co-Director:**
   - Carlos M. Garzón Ospina.
  ### **Profesores:**
-  -  Carlos M. Garzón.[🔬👨🏽‍🏫](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000858480)
-  -  John W. Sandino.[🔬👨🏽‍🏫](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000559245)
-  -  Luis C. Moreno.[🔬👨🏽‍🏫](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000477168)
+  -  Carlos M. Garzón Ospina.[🔬👨🏽‍🏫](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000858480)
+  -  John W. Sandino del Busto.[🔬👨🏽‍🏫](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000559245)
+  -  Luis C. Moreno Aldana.[🔬👨🏽‍🏫](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000477168)
  ### **Investigadores:**
   <details>
    <summary><h4>Estudiantes Líderes</h4></summary>
@@ -109,29 +109,39 @@ Impulsar la experimentación científica avanzada mediante el desarrollo de tecn
    &nbsp;&nbsp;&nbsp;<dd>Proyecto: <a href="https://github.com/GM-II/Ditogachi">Ditogachi</a></dd> 
    </dl>
   </details>
-  
-  #### Egresados:
-  - Claudia P. Mejía (Doctorado en Ingeniria - Ciencia y Tecnología de Materiales)
-  
-    Tesis de doctorado: [Recubrimientos nanoestructurados de Ti-Zr-Si-N producidos por la técnica de co-sputtering reactivo](https://repositorio.unal.edu.co/items/7c3d00ab-ef82-4b80-8ab3-e836bc344375)
-  - Lizeth T. González (Física).
+  <details>
+   <summary><h4>Egresados</h4></summary>
+   <dl>
 
-    Trabajo de Grado: Diseño y Fabricación de un Microscopio Confocal de Disco Rotante de Bajo Costo.
-  - Santiago Rosas (Física).
-    
-    Trabajo de Grado: Innovación en el análisis de deformaciones bidimensionales y mecanismos de falla enensayos de tensión en materiales heterogéneos con el desarrollo de tecnología.
+   - <strong>Andrés E. Leal (Física)</strong>
+   &nbsp;&nbsp;&nbsp;<dd>Proyecto: <a href="https://github.com/GM-II/ProyectoJuanSebastian">Diseño y montaje de sistema personalizado para la caracterización de soportes poliméricos para ingeniería de tejidos</a><br>
+   Trabajo de Grado: Calibración optomecánica de microposicionador para microscopio confocal</dd>
+   <br>
 
-de diseno abierto
-  - Andres Leal (Física).
+   - <strong>Claudia P. Mejía (Doctorado en Ingeniria - Ciencia y Tecnología de Materiales)</strong>
+   &nbsp;&nbsp;&nbsp;<dd>Tesis de Doctorado: <a href="https://repositorio.unal.edu.co/items/7c3d00ab-ef82-4b80-8ab3-e836bc344375">Recubrimientos nanoestructurados de Ti-Zr-Si-N producidos por la técnica de co-sputtering reactivo</a>.<br>
+   Producción: <a href="https://doi.org/10.1007/s10909-019-02238-y?urlappend=%3Futm_source%3Dresearchgate.net%26utm_medium%3Darticle">Effect of discharge current on the corrosion resistance and microstructure of ZrTiSiN coatings deposited by magnetron co-sputtering</a></dd>
+   <br>
 
-    Trabajo de Grado: Calibración optomecánica de microposicionador para microscopio confocal.
-  - Juan Pablo Cruz (Física)
+   - <strong>Juan P. Cruz (Física)</strong>
+   &nbsp;&nbsp;&nbsp;<dd>Trabajo de grado: Simulaciones de Monte Carlo de los espectros por dispersión de energía obtenidos en el microscopio electrónico con miras a la determinación de espesores de recubrimientos: caso de estudio de los recubrimientos de TiN sobre diversos substratos.<br>
+   Producción: <a href="https://doi.org/10.1007/s10909-019-02238-y?urlappend=%3Futm_source%3Dresearchgate.net%26utm_medium%3Darticle">Accuracy of a reference-free Monte Carlo approach for SEM-EDS thickness assessment of TiN coatings onto diverse substrates</a>; <a href="https://doi.org/10.15446/ing.investig.94361">Effects of Variations in Operating Conditions on the Preci-sion and Accuracy of Standardless Elemental Analysis of Stainless Steel by SEM-EDS</a>; <a href="https://doi.org/10.1017/S1431927621008953">SEM-EDS coating thickness assessment: an insight into the accuracy of Monte Carlo simulations carried out for TiN coatings using three different freeware graphical user interface</a>; <a href="https://doi.org/10.1017/S1431927621008953">An Analytic Equation for Assessing the Thickness of Titanium Nitride Coatings by Energy Dispersive X-ray Spectroscopy in the Scanning Electron Microscope</a>;</dd>
+   <br>
 
-    Trabajo de Grado: Simulaciones de Monte Carlo de los espectros por dispersión de energía obtenidos en el microscopio electrónico con miras a la determinación de espesores de recubrimientos: caso de estudio de los recubrimientos de TiN sobre diversos substratos.
+   - <strong>Lizeth T. González (Física)</strong>
+   &nbsp;&nbsp;&nbsp;<dd>Proyecto: <a href="https://github.com/GM-II/ProyectoLiz">Diseño y montaje de un Microscopio Confocal de Disco Rotante para la caracterización de soportes poliméricos para ingeniería de tejidos</a><br>
+   Trabajo de Grado: Diseño y Fabricación de un Microscopio Confocal de Disco Rotante de Bajo Costo.</dd>
+   <br>
+
+   - <strong>Santiago Rosas (Física)</strong>
+   &nbsp;&nbsp;&nbsp;<dd>Trabajo de Grado: Innovación en el análisis de deformaciones bidimensionales y mecanismos de falla enensayos de tensión en materiales heterogéneos con el desarrollo de tecnología.</dd>
+   </dl>
+  </details>
+ 
   ### **Semillero:**
   - Estudiantes dedicados al diseño de hardware y experimentación científica.
 <details>
-  <summary>[Miembros del seminario]</summary>
+  <summary>Miembros del seminario</summary>
 
   * Elemento 1
   * Elemento 2
