@@ -27,19 +27,43 @@ Caracterización multiescala de nuevos materiales y recubrimientos con aplicacio
 ## 5. Integrantes
  ### **Líder:**
 -  John W. Sandino del Busto.
+ ### **Co-Directores:
+- Carlos M. Garzón Ospina.
  ### **Profesores:**
 -  Carlos M. Garzón.
 -  John W. Sandino.
 -  Luis C. Moreno.
  ### **Investigadores:**
+   #### Estudiantes Líderes:
+  - Juan M. Ballesteros (Física)
+
+    Proyecto: [Developing low-cost open-source computational microscopy systems](https://github.com/GM-II/ProyectoJuanManuel)
+    Producción: Extended depth-of-field reflected-light microscopy with a low-cost robotic microscope and Fiji focus stacking: workflow integration and baseline evaluation.
+  - Juan S. Bonilla (Física)
+    
+    Proyecto: [Diseño y montaje de sistema personalizado para la caracterización de soportes poliméricos para ingeniería de tejidos](https://github.com/GM-II/ProyectoJuanSebastian)
+    
+    Trabajo de Grado: Diseño y Montaje de un Microscopio Confocal de Bajo Costo para la Caracterizacion de Soportes Polimericos en Ingenieria de Tejidos
+ - José A. Gómez (Doctorado en Ciencias - Física)
+
+   Tesis de Maestría: [Obtención de la rugosidad a partir de imágenes obtenidas en un Microscopio Electrónico de Barrido](https://repositorio.unal.edu.co/items/41beeba7-966f-47aa-8196-f639d29bcbfa)
+
+ - Serena Triviño (Física)
+   
+   Proyecto: [Ditogachi](https://github.com/GM-II/Ditogachi)
+ - William Salazar (Doctorado en Ciencias - Física)
+
+   Tesis de Maestría: Estudio de materiales multiferróicos por medio de microscopía electrónica de transmisión.
    #### Estudiantes de Posgrado:
   - José A. Gómez (Doctorado en Ciencias - Física)
   - William Salazar (Doctorado en Ciencias - Física)
   - Daniel H. Campos (Maestría en Ingenieria Electrónica)
+    Tesis de Maestría: Desarrollo de un hardware de código abierto para ensayos de tensión biaxial asistido por un sistema de control híbrido basado en la visión de máquina y la electrónica embebida.
   #### Estudiantes de Pregrado:
   - Cristian C. Martinez (Quimica)
   - Juan S. Bonilla (Física & Matemáticas)
   - Andrea P. Morato (Física & Ciencias de la Computación)
+  - Juan D. Hernandez (Física)
   - Serena Triviño (Física)
   - Juan M. Ballesteros (Física)
   #### Egresados:
@@ -47,7 +71,18 @@ Caracterización multiescala de nuevos materiales y recubrimientos con aplicacio
   
     Tesis de doctorado: [Recubrimientos nanoestructurados de Ti-Zr-Si-N producidos por la técnica de co-sputtering reactivo](https://repositorio.unal.edu.co/items/7c3d00ab-ef82-4b80-8ab3-e836bc344375)
   - Lizeth T. González (Física).
+
+    Trabajo de Grado: Diseño y Fabricación de un Microscopio Confocal de Disco Rotante de Bajo Costo.
   - Santiago Rosas (Física).
+    
+    Trabajo de Grado: Innovación en el análisis de deformaciones bidimensionales y mecanismos de falla enensayos de tensión en materiales heterogéneos con el desarrollo de tecnología.
+
+de diseno abierto
   - Andres Leal (Física).
+
+    Trabajo de Grado: Calibración optomecánica de microposicionador para microscopio confocal.
+  - Juan Pablo Cruz (Física)
+
+    Trabajo de Grado: Simulaciones de Monte Carlo de los espectros por dispersión de energía obtenidos en el microscopio electrónico con miras a la determinación de espesores de recubrimientos: caso de estudio de los recubrimientos de TiN sobre diversos substratos.
   ### **Semillero:**
   - Estudiantes dedicados al diseño de hardware y experimentación científica.
