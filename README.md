@@ -143,8 +143,7 @@ Impulsar la experimentación científica avanzada mediante el desarrollo de tecn
 <details>
   <summary>Miembros del seminario</summary>
 
-  * Elemento 1
-  * Elemento 2
-  * Elemento 3
+  * Juan M. Ballesteros
+  * Serena Triviño
 
 </details>
